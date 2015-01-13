@@ -1,1 +1,1 @@
-# wsi
+# WSI - Web SSH Intermediary
